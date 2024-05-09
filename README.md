@@ -1,7 +1,4 @@
-# internal-process-automations
-The repository would be used to build / orchestrate / integrate various business tools.
-Possible use cases 
-- [ ] Monthly accounting and reports sharing with Accounting team. 
-- [ ] Timesheet generation from the Google Calender 
+# Bank Statement processing app (also known as internal process automation)
 
-_more to be added as the scenario arises_
+Here we want to automate the aggregation -> processing -> presentation of bank statements.
+The app task board is here -> https://docs.google.com/spreadsheets/d/1LiWiNbye5StqKoaSrHmeM2vwKDzHbg17a8KcgtaXdEQ
