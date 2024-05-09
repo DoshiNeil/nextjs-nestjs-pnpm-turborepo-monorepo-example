@@ -1,0 +1,9 @@
+{
+  "name": "internal-process-automations",
+  "version": "1.0.0",
+  "description": "Automate all possible steps for accounting",
+  "main": "index.js",
+  "repository": "https://github.com/Nzym-Technologies/internal-process-automations.git",
+  "author": "Neil Doshi <mail.neildoshi@gmail.com>",
+  "license": "MIT"
+}
